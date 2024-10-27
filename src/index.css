@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body{
+        @apply grid place-content-center min-h-screen text-[1rem] font-League
+    }
+}
