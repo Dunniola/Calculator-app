@@ -49,7 +49,7 @@ Mobile design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [View Demo](https://github.com/Dunniola/Calculator-app.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -68,7 +68,7 @@ Mobile design
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Dunniola](https://www.your-site.com)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
