@@ -50,7 +50,7 @@ Mobile design
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Calculator-app.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify App](https://calculator-app-build.netlify.app/)
 
 ## My process
 
@@ -68,7 +68,7 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website -[[Dunniola](https://calculator-app-build.netlify.app/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
