@@ -9,7 +9,7 @@ function Footer() {
           <span className='text-text-darkGrayishBlue underline'>Frontend Mentor</span>
         </a>{' '}
         <span>coded by</span>{' '}
-        <a href="#" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/Dunniola/Calculator-app.git" target="_blank" rel="noopener noreferrer">
           <span className='text-text-darkGrayishBlue underline'>Dunniola.</span>
         </a>
       </p>
